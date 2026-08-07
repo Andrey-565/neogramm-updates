@@ -1,5 +1,7 @@
 {
-  "version": 1,
-  "url": "https://github.com/Andrey-565/neogramm-updates/releases/download/v1.0/neogramm.apk",
-  "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+  "version": 2,
+  "url": "https://github.com/Andrey-565/neogramm-updates/releases/download/v2.0/neogramm.apk",
+  "hash": "113682d15001ec38c1892fe9845fa243bac27f0e943f688460da51be637bc7cf",
+  "size": 50234368,
+  "changelog": "- Кнопка Авто-прокси\n- Русский язык по умолчанию\n- Исправления ошибок"
 }
