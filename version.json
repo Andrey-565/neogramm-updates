@@ -1,7 +1,7 @@
 {
-  "version": 1,
+  "version": 3,
   "url": "https://github.com/Andrey-565/neogramm-updates/releases/download/v3.0/neogramm.apk",
-  "hash": "9b12eb9e8525f82782e16df256fde234fad039d6982f94554c7a51a9490aaa6f",
-  "size": 50396000,
-  "changelog": "- Кнопка Авто-прокси\n- Русский язык по умолчанию\n- Исправления ошибок"
+  "hash": "1b69242a6d2aeb676f1d896f846a5e21b6f68edee3e76f4119919199b0b4300f",
+  "size": 50220852,
+  "changelog": "- Встроенный авто-прокси SOCKS5 с автообновлением списка\n- Кнопка «Подключить прокси» в боковом меню\n- Новая иконка приложения\n- OTA-обновления"
 }
